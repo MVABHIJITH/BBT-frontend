@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Libre Baskerville", serif;
+ }
+
+.bgimg1 {
+    background-image: url("https://img.freepik.com/free-vector/realistic-car-headlights-ad-composition-headlights-with-green-purple-illumination_1284-56577.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1712707200&semt=ais");
+    position: relative;
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 630px;
+}
+
+.btn-1 {
+    background-color: white;
+    border: black 2px solid;
+    width: 250px;
+    height: 50px;
+}
+
+.btn-1:hover {
+    background-color: black;
+    border: black 2px solid;
+    width: 250px;
+    height: 50px;
+    color: white;
+}
+.testdrive {
+    background-image: url("https://www-asia.nissan-cdn.net/content/dam/Nissan/in/Home/virtual-test-drive/Nissan-Magnite-Virtual-Test-Drive-Website-Banners_Desktop_3.jpg.ximg.l_full_m.smart.jpg");
+    position: relative;
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment:scroll;
+    height: 630px;
+}
